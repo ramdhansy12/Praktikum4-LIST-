@@ -1,5 +1,6 @@
 ### Latihan LIST
 • Buat sebuah list sebanyak 5 elemen dengan nilai bebas
+
 • Akses list:
 - tampilkan elemen ke 3
 - ambil nilai elemen ke 2 sampai elemen ke 4
@@ -23,3 +24,19 @@
 
 #### Hasil Programnya
 ![gambar](https://user-images.githubusercontent.com/56957725/69396413-bd9e5a00-0d14-11ea-94c0-c29386885301.png)
+
+--------------------------------------------------------------------------------------------------------------------------------
+####  Tugas Praktikum
+
+Buat program sederhana untuk menambahkan data kedalam sebuah
+list dengan rincian sebagai berikut:
+
+- Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan)
+
+- Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan   menampilkan daftar datanya.
+
+- Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+
+- Buat flowchart dan penjelasan programnya pada README.md.
+
+- Commit dan push repository ke github.
