@@ -40,3 +40,15 @@ list dengan rincian sebagai berikut:
 - Buat flowchart dan penjelasan programnya pada README.md.
 
 - Commit dan push repository ke github.
+
+
+#### Programnya
+![gambar](https://user-images.githubusercontent.com/56957725/69475627-e8b2a780-0e01-11ea-9726-6c3a2c69527c.png)
+
+
+#### Hasil Programnya
+![gambar](https://user-images.githubusercontent.com/56957725/69475726-13e9c680-0e03-11ea-9470-0e98b6cba6d0.png)
+
+#### Flowchart
+![gambar](https://user-images.githubusercontent.com/56957725/69475753-822e8900-0e03-11ea-95f8-dc021574e90d.png)
+
