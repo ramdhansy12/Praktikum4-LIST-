@@ -52,3 +52,13 @@ list dengan rincian sebagai berikut:
 #### Flowchart
 ![gambar](https://user-images.githubusercontent.com/56957725/69475753-822e8900-0e03-11ea-95f8-dc021574e90d.png)
 
+#### Penjelasan program
+1. Buatlah list berupa Nama, Nim, Nilai tugas, Nilai UTS, Nilai UAS
+2. Lalu inputlah Nama, Nim, Nilai tugas, Nilai UTS, Nilai UAS
+3. Jika ingin menambah list data ketik "ya" dan jikalau tidak ingin menambahkan list data ketik "tidak". Dengan perintah while jawab =="ya" dan if  jawab =="tidak". Jawab input(("Tambah data y/t")).
+4,Gunakan perintah append pada Nama, Nim, Nilai tugas, Nilai UTS, Nilai UAS untuk menambahkan 1 item ke elemen terakhir.
+5. Lalu mencari nilai akhir dengan perhitungan nilai tugas 30%, nilai uts 35% dan uas 35% , dengan perintah float
+6. Gunakanlah perulangan for, dengan perintah for i in range(len(Nama)):. Fungsi "len" ialah untuk mengembalikan panjang (jumlah anggota) dari suatu objek.
+7. Lalu cetak  dengan perintah print(i+1,Nama[i],Nim[i],TGS[i],UTS[i],UAS[i],Nilaiakhir[i] )\
+8. Selesai
+
