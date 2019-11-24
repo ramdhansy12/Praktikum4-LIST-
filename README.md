@@ -43,14 +43,16 @@ list dengan rincian sebagai berikut:
 
 
 #### Programnya
-![gambar](https://user-images.githubusercontent.com/56957725/69475627-e8b2a780-0e01-11ea-9726-6c3a2c69527c.png)
+![gambar](https://user-images.githubusercontent.com/56957725/69493246-07d33700-0edf-11ea-805f-8552021025cc.png)
 
 
 #### Hasil Programnya
-![gambar](https://user-images.githubusercontent.com/56957725/69475726-13e9c680-0e03-11ea-9470-0e98b6cba6d0.png)
+![gambar](https://user-images.githubusercontent.com/56957725/69493278-92b43180-0edf-11ea-8757-b079b8f96079.png)
+
 
 #### Flowchart
-![gambar](https://user-images.githubusercontent.com/56957725/69475753-822e8900-0e03-11ea-95f8-dc021574e90d.png)
+![gambar](https://user-images.githubusercontent.com/56957725/69493009-0fdda780-0edc-11ea-96fa-87b5f98db9ac.png)
+
 
 #### Penjelasan program
 1. Buatlah list berupa Nama, Nim, Nilai tugas, Nilai UTS, Nilai UAS
